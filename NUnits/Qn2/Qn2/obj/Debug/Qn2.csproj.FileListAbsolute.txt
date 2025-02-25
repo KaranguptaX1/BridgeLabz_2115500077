@@ -1,0 +1,7 @@
+D:\BridgeLabsAssignments\NUnits\Qn2\Qn2\bin\Debug\Qn2.exe.config
+D:\BridgeLabsAssignments\NUnits\Qn2\Qn2\bin\Debug\Qn2.exe
+D:\BridgeLabsAssignments\NUnits\Qn2\Qn2\bin\Debug\Qn2.pdb
+D:\BridgeLabsAssignments\NUnits\Qn2\Qn2\obj\Debug\Qn2.csproj.AssemblyReference.cache
+D:\BridgeLabsAssignments\NUnits\Qn2\Qn2\obj\Debug\Qn2.csproj.CoreCompileInputs.cache
+D:\BridgeLabsAssignments\NUnits\Qn2\Qn2\obj\Debug\Qn2.exe
+D:\BridgeLabsAssignments\NUnits\Qn2\Qn2\obj\Debug\Qn2.pdb
