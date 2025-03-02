@@ -48,3 +48,5 @@ Assignment 34(CSV File Handeling) on 25-02-25.
 Assignment 35(JSON File Handeling) on 26-02-25.
 
 Assignment 36(User Registration WebAPI) on 28-02-25.
+
+Assignment 37(Add NLog WebAPI) on 01-03-25.
