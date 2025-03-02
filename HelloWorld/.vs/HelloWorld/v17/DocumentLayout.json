@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CapG\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|d:\\capg\\helloworld\\helloworld\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B89D8A2-4054-42D0-BA50-FF289B65AD44}|BusinessLayer\\BusinessLayer.csproj|d:\\capg\\helloworld\\businesslayer\\services\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B89D8A2-4054-42D0-BA50-FF289B65AD44}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\services\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|d:\\capg\\helloworld\\helloworld\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\nlog.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E4866-5D66-42F5-A08B-96FE68519B3A}|RepositoryLayer\\RepositoryLayer.csproj|d:\\capg\\helloworld\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E4866-5D66-42F5-A08B-96FE68519B3A}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E4866-5D66-42F5-A08B-96FE68519B3A}|RepositoryLayer\\RepositoryLayer.csproj|d:\\capg\\helloworld\\repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E4866-5D66-42F5-A08B-96FE68519B3A}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E4866-5D66-42F5-A08B-96FE68519B3A}|RepositoryLayer\\RepositoryLayer.csproj|d:\\capg\\helloworld\\repositorylayer\\context\\helloappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B68E4866-5D66-42F5-A08B-96FE68519B3A}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\context\\helloappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|d:\\capg\\helloworld\\helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|d:\\capg\\helloworld\\helloworld\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|d:\\capg\\helloworld\\helloworld\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C5737BF-F58E-4609-9651-8EF46A968F3A}|HelloWorld\\HelloWorld.csproj|solutionrelative:helloworld\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B68E4866-5D66-42F5-A08B-96FE68519B3A}|RepositoryLayer\\RepositoryLayer.csproj|d:\\capg\\helloworld\\repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B68E4866-5D66-42F5-A08B-96FE68519B3A}|RepositoryLayer\\RepositoryLayer.csproj|solutionrelative:repositorylayer\\repositorylayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Program.cs",
+              "ToolTip": "D:\\CapG\\HelloWorld\\HelloWorld\\Program.cs",
+              "RelativeToolTip": "HelloWorld\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:28:37.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HelloAppContext.cs",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Context\\HelloAppContext.cs",
+              "ToolTip": "D:\\CapG\\HelloWorld\\RepositoryLayer\\Context\\HelloAppContext.cs",
+              "RelativeToolTip": "RepositoryLayer\\Context\\HelloAppContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:10:29.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "D:\\CapG\\HelloWorld\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "RepositoryLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T09:01:07.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "D:\\CapG\\HelloWorld\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T11:10:04.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterHelloBL.cs",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\BusinessLayer\\Services\\RegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\Services\\RegisterHelloBL.cs",
+              "ToolTip": "D:\\CapG\\HelloWorld\\BusinessLayer\\Services\\RegisterHelloBL.cs",
+              "RelativeToolTip": "BusinessLayer\\Services\\RegisterHelloBL.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:54:30.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NLog.config",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\HelloWorld\\NLog.config",
+              "RelativeDocumentMoniker": "HelloWorld\\NLog.config",
+              "ToolTip": "D:\\CapG\\HelloWorld\\HelloWorld\\NLog.config",
+              "RelativeToolTip": "HelloWorld\\NLog.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-02T10:35:38.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\HelloWorld\\appsettings.json",
+              "RelativeDocumentMoniker": "HelloWorld\\appsettings.json",
+              "ToolTip": "D:\\CapG\\HelloWorld\\HelloWorld\\appsettings.json",
+              "RelativeToolTip": "HelloWorld\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T09:18:19.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\HelloWorld\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HelloWorld\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\CapG\\HelloWorld\\HelloWorld\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HelloWorld\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T10:40:55.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\HelloWorld\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HelloWorld\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\CapG\\HelloWorld\\HelloWorld\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HelloWorld\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-01T11:07:18.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepositoryLayer.csproj",
+              "DocumentMoniker": "D:\\CapG\\HelloWorld\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeDocumentMoniker": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ToolTip": "D:\\CapG\\HelloWorld\\RepositoryLayer\\RepositoryLayer.csproj",
+              "RelativeToolTip": "RepositoryLayer\\RepositoryLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-01T09:00:13.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

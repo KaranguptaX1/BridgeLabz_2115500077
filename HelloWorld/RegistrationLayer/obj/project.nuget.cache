@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zJybrnzW6E69SeRYJbIhCMQrQvFz5iVUFzhPxm+jO5qFXcw3o2vecu8fLiM5iBhEIXfsgGPkLOR/5n3Yt+XI1Q==",
+  "success": true,
+  "projectFilePath": "/Users/rahulkumarair/Projects/HelloWorld/RegistrationLayer/RepositoryLayer.csproj",
+  "expectedPackageFiles": [
+    "/Users/rahulkumarair/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/rahulkumarair/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

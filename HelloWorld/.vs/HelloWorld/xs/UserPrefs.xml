@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{5C5737BF-F58E-4609-9651-8EF46A968F3A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepositoryLayer/Service/RegisterHelloRL.cs">
+    <Files>
+      <File FileName="HelloWorld/Program.cs" />
+      <File FileName="BusinessLayer/Services/RegisterHelloBL.cs" Line="28" Column="31" />
+      <File FileName="HelloWorld/Controllers/WeatherForecastController.cs" />
+      <File FileName="RepositoryLayer/Service/RegisterHelloRL.cs" Line="7" Column="33" />
+      <File FileName="ModelLayer/DTO/LoginDTO.cs" Line="16" Column="1" />
+      <File FileName="ModelLayer/DTO/ResponseBody.cs" Line="8" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloWorld" expanded="True">
+            <Node name="BusinessLayer" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="HelloWorld" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="ModelLayer" expanded="True">
+              <Node name="DTO" expanded="True" />
+            </Node>
+            <Node name="RepositoryLayer" expanded="True">
+              <Node name="Service" expanded="True">
+                <Node name="RegisterHelloRL.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
